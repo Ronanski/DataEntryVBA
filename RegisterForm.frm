@@ -1,10 +1,10 @@
 VERSION 5.00
 Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} RegisterForm 
    Caption         =   "Registration Page"
-   ClientHeight    =   3852
+   ClientHeight    =   2412
    ClientLeft      =   108
    ClientTop       =   456
-   ClientWidth     =   6192
+   ClientWidth     =   5796
    OleObjectBlob   =   "RegisterForm.frx":0000
    StartUpPosition =   1  'CenterOwner
 End
